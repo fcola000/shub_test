@@ -3,7 +3,7 @@ From: centos:centos7.4.1708
 IncludeCmd: yes
 
 %labels
-AUTHOR g.muscianisi@cineca.it
+AUTHOR f.cola@cineca.it
 VERSION 1.0
 Event 17th Adv School on HPC in CINECA
 ContainerName Exercise 01 
